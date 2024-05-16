@@ -40,7 +40,7 @@ header 영역 - 로고, 메인메뉴
     left: 0;
     width: 100%;
     height: 80px;
-    background-color: #e6bcff;
+    background-color: #f7e686;
     z-index: 10000;
 }
 #logo {
@@ -92,7 +92,7 @@ header 영역 - 로고, 메인메뉴
 }
 #main-text {
     position: relative;
-    font-family: "Pretendard-Regular";
+    font-family: "Pretendard-Regular.otf";
     font-size: 24px;
     line-height: 180%;
     /*background-color: blanchedalmond;*/
